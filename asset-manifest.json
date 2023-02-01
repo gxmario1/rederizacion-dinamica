@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rederizacion-dinamica/static/css/main.073c9b0a.css",
+    "main.js": "/rederizacion-dinamica/static/js/main.7cc5cf5e.js",
+    "static/js/787.7040d041.chunk.js": "/rederizacion-dinamica/static/js/787.7040d041.chunk.js",
+    "static/media/logo.svg": "/rederizacion-dinamica/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rederizacion-dinamica/index.html",
+    "main.073c9b0a.css.map": "/rederizacion-dinamica/static/css/main.073c9b0a.css.map",
+    "main.7cc5cf5e.js.map": "/rederizacion-dinamica/static/js/main.7cc5cf5e.js.map",
+    "787.7040d041.chunk.js.map": "/rederizacion-dinamica/static/js/787.7040d041.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7cc5cf5e.js"
+  ]
+}
